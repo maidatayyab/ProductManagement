@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:44348;http://localhost:5000"
+    },
+    "ProjectName": "ProductManagement",
+    {
+    "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:44348;http://localhost:5000"
+    }
+  }
+}
